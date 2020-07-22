@@ -5,3 +5,6 @@ Prediction Performance and Preference Hiding* [paper](http://google.com). and *C
 
 <img src="diagramSynRec.jpg" alt="SynRec Diagram"
 	title="A cute kitten" width="150" height="100" />
+
+
+![Diagram](diagramSynRec.jpg){: width=150 height=100 style="float:right; padding:16px"}
