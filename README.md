@@ -8,13 +8,11 @@ This repository releases the implementation of "SynRec" in our papers:
 
 # To cite us
 ```
-@inproceedings{10.1145/3240323.3240325,
+@inproceedings{Slokom2018Comparing,
 
   author    = {Slokom, Manel}, 
   title     = {Comparing Recommender Systems Using Synthetic Data},
   year      = {2018},
-  isbn      = {9781450359016},
-  publisher = {Association for Computing Machinery},
   url       = {https://doi.org/10.1145/3240323.3240325},
   doi       = {10.1145/3240323.3240325},
   booktitle = {Proceedings of the 12th ACM Conference on Recommender Systems},
