@@ -7,12 +7,11 @@ This repository releases the implementation of "SynRec" in our papers:
 ![Diagram](diagramSynRec.jpg)
 
 # To cite us
+```
 @inproceedings{10.1145/3240323.3240325,
 
-  author    = {Slokom, Manel},
-  
-  title     = {Comparing Recommender Systems Using Synthetic Data},
-  
+  author    = {Slokom, Manel}, \\
+  title     = {Comparing Recommender Systems Using Synthetic Data},\\
   year      = {2018},
   
   isbn      = {9781450359016},
@@ -33,5 +32,5 @@ This repository releases the implementation of "SynRec" in our papers:
   
   series = {RecSys ’18}
 }
-
+```
 
