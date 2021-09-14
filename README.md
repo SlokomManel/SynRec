@@ -27,3 +27,5 @@ For comparing different Recommender System algorithms, we used WrapRec Framework
 }
 ```
 
+# Contacts: 
+Feel free to contact me at m.slokom@tudelft.nl or manel.slokom@live.fr for questions!
